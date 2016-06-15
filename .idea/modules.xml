@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AndroidDeveloperToolbox.iml" filepath="$PROJECT_DIR$/AndroidDeveloperToolbox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/adt-app/adt-app.iml" filepath="$PROJECT_DIR$/adt-app/adt-app.iml" />
+    </modules>
+  </component>
+</project>
