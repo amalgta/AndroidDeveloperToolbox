@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">Android Developer Toolbox</string>
+    <string name="app_name">ADT</string>
+    <string name="app_title">Android Developer Toolbox</string>
+    <string name="settings">Settings</string>
 </resources>
